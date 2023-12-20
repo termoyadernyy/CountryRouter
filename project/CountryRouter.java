@@ -2,6 +2,8 @@
  Created by termoyadernyy
  */
 
+// Insert your package or remove it ⤵
+package project;
 
 import java.io.IOException;
 import java.io.InputStream;
